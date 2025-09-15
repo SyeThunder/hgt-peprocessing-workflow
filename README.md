@@ -1,6 +1,7 @@
 HGT preprocess workflow
 
 *collate_tables.py*
+
 Inputs: assembly.fasta 
 		    assembly.gfa
 		    gplas results.tab
