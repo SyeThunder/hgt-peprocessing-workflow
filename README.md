@@ -2,10 +2,10 @@ HGT preprocess workflow
 
 *collate_tables.py*
 
-Inputs: assembly.fasta 
-		    assembly.gfa
-		    gplas results.tab
-		    abricate concatenated output.tab
+Inputs: 	assembly.fasta,
+		    assembly.gfa,
+		    gplas results.tab,
+		    abricate concatenated output.tab,
 		    checkm concatenated report.tsv
 
 Libraries: 	pandas, numpy, os, re, subprocess
